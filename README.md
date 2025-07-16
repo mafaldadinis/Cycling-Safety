@@ -1,8 +1,8 @@
 # Cycling-Safety
-An Open-Source Smartwatch-based System to Enhance Cyclist Safety
+
+> _An Open-Source Smartwatch-based System to Enhance Cyclist Safety_
 
 
-# Cycling Safety — Umbrella Repository
 
 This repository serves as the umbrella project for the **Cycling Safety** system. It links together all key components as Git submodules:
 
