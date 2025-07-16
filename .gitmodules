@@ -1,0 +1,9 @@
+[submodule "map_generator"]
+	path = map_generator
+	url = https://github.com/mafaldadinis/map_generator.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/mafaldadinis/TWatch-S3-Cycling-Safety-Firmware.git
+[submodule "app"]
+	path = app
+	url = https://github.com/mafaldadinis/Cycling-Safety-App.git
