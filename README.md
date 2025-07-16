@@ -50,10 +50,11 @@ git pull origin main
 
 
 ##📁 Project Structure
-
+```
 Cycling-Safety/
 ├── map_generator/       # Python mapping tools
 ├── firmware/            # ESP32 smartwatch firmware
 ├── app/                 # Mobile app (Capacitor/JS)
 ├── .gitmodules
 └── ...
+```
